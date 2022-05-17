@@ -1,0 +1,37 @@
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    float: left;
+    background-color: lightslategray;
+    width: 33%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: antiquewhite;
+    display: block;
+}
+
+nav ul li:hover{
+    background-color: rgb(47, 64, 82);
+}
+
+body{
+    background-color: #333;
+}
+
+img{
+    width: 150px;
+}
+
+video{
+    width: 35%;
+}
+
+
+
